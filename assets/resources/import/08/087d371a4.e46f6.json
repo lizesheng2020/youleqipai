@@ -1,0 +1,96 @@
+[
+  1,
+  [
+    "910+2p3XNLU7KpZDSN1AQk",
+    "e5Fq+clW1G0YcPLjAg82jU"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "club_btn_qbwf2",
+          "rect": [
+            0,
+            0,
+            44,
+            31
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            44,
+            31
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "btn_tcxx_1",
+          "rect": [
+            0,
+            0,
+            182,
+            57
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            182,
+            57
+          ],
+          "capInsets": [
+            20,
+            20,
+            20,
+            20
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "69aG0Sv+pGzYa9rWzUxh5t"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "youxi_quanbu",
+      "rect": [
+        0,
+        0,
+        256,
+        75
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        256,
+        75
+      ],
+      "capInsets": [
+        27,
+        16,
+        22,
+        26
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

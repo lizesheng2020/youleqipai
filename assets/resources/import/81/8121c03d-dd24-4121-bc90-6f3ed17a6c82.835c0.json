@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "dbLgKsn1hPx7Dt2u4JCAt1"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "4ren_lv",
+      "rect": [
+        0,
+        0,
+        400,
+        314
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        400,
+        314
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

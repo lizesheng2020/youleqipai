@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "f06qpqKQZKwYBPEoSVmH9v"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "tc_xiao",
+      "rect": [
+        0,
+        0,
+        1364,
+        866
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1364,
+        866
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

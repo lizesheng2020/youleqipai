@@ -1,0 +1,111 @@
+
+shuitong.png
+size: 704,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuitong08
+  rotate: false
+  xy: 1, 189
+  size: 185, 182
+  orig: 198, 211
+  offset: 6, 18
+  index: -1
+shuitong05
+  rotate: false
+  xy: 532, 1
+  size: 82, 90
+  orig: 198, 211
+  offset: 25, 100
+  index: -1
+shuitong01
+  rotate: false
+  xy: 374, 103
+  size: 63, 60
+  orig: 198, 211
+  offset: 86, 84
+  index: -1
+shuitong03
+  rotate: false
+  xy: 433, 304
+  size: 86, 82
+  orig: 198, 211
+  offset: 66, 81
+  index: -1
+shuitong14
+  rotate: false
+  xy: 188, 184
+  size: 142, 133
+  orig: 198, 211
+  offset: 51, 5
+  index: -1
+shuitong12
+  rotate: false
+  xy: 145, 373
+  size: 142, 133
+  orig: 198, 211
+  offset: 51, 5
+  index: -1
+shuitong06
+  rotate: false
+  xy: 374, 1
+  size: 156, 100
+  orig: 198, 211
+  offset: 10, 103
+  index: -1
+shuitong04
+  rotate: false
+  xy: 476, 207
+  size: 85, 82
+  orig: 198, 211
+  offset: 16, 100
+  index: -1
+shuitong10
+  rotate: false
+  xy: 188, 1
+  size: 184, 181
+  orig: 198, 211
+  offset: 9, 15
+  index: -1
+shuitong02
+  rotate: false
+  xy: 616, 1
+  size: 86, 82
+  orig: 198, 211
+  offset: 81, 78
+  index: -1
+shuitong11
+  rotate: false
+  xy: 289, 319
+  size: 142, 130
+  orig: 198, 211
+  offset: 51, 8
+  index: -1
+shuitong15
+  rotate: false
+  xy: 332, 184
+  size: 142, 118
+  orig: 198, 211
+  offset: 51, 4
+  index: -1
+shuitong13
+  rotate: false
+  xy: 1, 373
+  size: 142, 133
+  orig: 198, 211
+  offset: 51, 5
+  index: -1
+shuitong07
+  rotate: false
+  xy: 476, 103
+  size: 149, 102
+  orig: 198, 211
+  offset: 9, 102
+  index: -1
+shuitong09
+  rotate: false
+  xy: 1, 1
+  size: 185, 186
+  orig: 198, 211
+  offset: 8, 21
+  index: -1

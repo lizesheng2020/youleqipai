@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e3UoEZY3JJZJLIf2p4028e"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "diban_box_2",
+      "rect": [
+        0,
+        0,
+        1584,
+        649
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1584,
+        649
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,55 @@
+
+xihongshi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xihongshi06
+  rotate: false
+  xy: 1, 1
+  size: 106, 159
+  orig: 114, 164
+  offset: 5, 0
+  index: -1
+xihongshi04
+  rotate: false
+  xy: 319, 1
+  size: 103, 140
+  orig: 114, 164
+  offset: 8, 19
+  index: -1
+xihongshi01
+  rotate: false
+  xy: 1, 162
+  size: 63, 65
+  orig: 114, 164
+  offset: 33, 89
+  index: -1
+xihongshi03
+  rotate: false
+  xy: 319, 143
+  size: 106, 106
+  orig: 114, 164
+  offset: 5, 56
+  index: -1
+xihongshi07
+  rotate: false
+  xy: 214, 1
+  size: 103, 152
+  orig: 114, 164
+  offset: 8, 7
+  index: -1
+xihongshi02
+  rotate: false
+  xy: 109, 155
+  size: 92, 88
+  orig: 114, 164
+  offset: 12, 64
+  index: -1
+xihongshi05
+  rotate: false
+  xy: 109, 1
+  size: 103, 152
+  orig: 114, 164
+  offset: 8, 7
+  index: -1

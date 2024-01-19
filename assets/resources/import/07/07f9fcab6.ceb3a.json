@@ -1,0 +1,260 @@
+[
+  1,
+  [
+    "8364k7BuBFrrUePap4ZaDm",
+    "99O5Vmi41Jm40FpIVcE3A9",
+    "985dH2zP5M560SYV/kx2FU",
+    "955MP4jE5Ig6Ty93gb3czW",
+    "44Bwx7TlpEibSRAKkOO1u7",
+    "0adnPQpZhBGopVD0yJiI31"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "paixing_duizi",
+          "rect": [
+            0,
+            0,
+            305,
+            77
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            305,
+            77
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "paixing_jinhua",
+          "rect": [
+            0,
+            0,
+            296,
+            77
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            296,
+            77
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "paixing_baozi",
+          "rect": [
+            0,
+            0,
+            294,
+            84
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            294,
+            84
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    [
+      [
+        {
+          "name": "paixing_shunzi",
+          "rect": [
+            0,
+            0,
+            308,
+            80
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            308,
+            80
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        3
+      ]
+    ],
+    [
+      [
+        {
+          "name": "paixing_teshupai",
+          "rect": [
+            0,
+            0,
+            302,
+            77
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            302,
+            77
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        4
+      ]
+    ],
+    [
+      [
+        {
+          "name": "paixing_shunjin",
+          "rect": [
+            0,
+            0,
+            299,
+            77
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            299,
+            77
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        5
+      ]
+    ]
+  ]
+]

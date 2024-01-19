@@ -1,0 +1,489 @@
+[
+  1,
+  [
+    "47F3bKqMtNCqJ47QYTIm+v",
+    "97kcQWDK5C4oSPGqcmfRpa",
+    "38EjHqCvlNdJ5hV8LCPl+X",
+    "afvl1jjEBIFbiMJBop6pZ+",
+    "15nvgIz5pFyIW/dxbjNSZx",
+    "78R8elGzlOoZd8PG61aoCA",
+    "1c/MNN28dO8qGaHPcHzlMk",
+    "b6HEuN26pEZreDgAdnNlxb",
+    "bb2HOc0QBACrAvIkK785fl",
+    "82uidRgaJKL5ZWEzrttOg8"
+  ],
+  [
+    "_textureSetter",
+    "xinsui0001",
+    "xinsui0002",
+    "xinsui0003",
+    "xinsui0004",
+    "xinsui0005",
+    "xinsui0006",
+    "xinsui0007",
+    "xinsui0008",
+    "xinsui0009"
+  ],
+  [
+    "cc.SpriteFrame",
+    [
+      "cc.SpriteAtlas",
+      [
+        "_name",
+        "_spriteFrames"
+      ],
+      2,
+      11
+    ]
+  ],
+  [
+    [
+      1,
+      0,
+      1,
+      2
+    ]
+  ],
+  [
+    [
+      [
+        {
+          "name": "xinsui0004",
+          "rect": [
+            182,
+            104,
+            96,
+            88
+          ],
+          "offset": [
+            1,
+            1
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "xinsui0006",
+          "rect": [
+            92,
+            104,
+            100,
+            88
+          ],
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "xinsui0002",
+          "rect": [
+            370,
+            2,
+            90,
+            88
+          ],
+          "offset": [
+            1,
+            1
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "xinsui0005",
+          "rect": [
+            182,
+            2,
+            100,
+            88
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "xinsui0009",
+          "rect": [
+            2,
+            2,
+            100,
+            88
+          ],
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "xinsui0001",
+          "rect": [
+            272,
+            92,
+            90,
+            88
+          ],
+          "offset": [
+            1,
+            1
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "xinsui0003",
+          "rect": [
+            272,
+            2,
+            96,
+            88
+          ],
+          "offset": [
+            1,
+            1
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "xinsui0007",
+          "rect": [
+            92,
+            2,
+            100,
+            88
+          ],
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "xinsui0008",
+          "rect": [
+            2,
+            104,
+            100,
+            88
+          ],
+          "offset": [
+            0,
+            1
+          ],
+          "originalSize": [
+            100,
+            100
+          ],
+          "rotated": 1,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        [
+          0,
+          "xinsui.plist",
+          [
+            {},
+            "xinsui0001",
+            6,
+            0,
+            "xinsui0002",
+            6,
+            1,
+            "xinsui0003",
+            6,
+            2,
+            "xinsui0004",
+            6,
+            3,
+            "xinsui0005",
+            6,
+            4,
+            "xinsui0006",
+            6,
+            5,
+            "xinsui0007",
+            6,
+            6,
+            "xinsui0008",
+            6,
+            7,
+            "xinsui0009",
+            6,
+            8
+          ]
+        ]
+      ],
+      0,
+      0,
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    ]
+  ]
+]

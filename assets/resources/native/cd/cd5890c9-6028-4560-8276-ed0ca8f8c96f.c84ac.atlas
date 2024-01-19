@@ -1,0 +1,153 @@
+
+jidan.png
+size: 502,561
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jidan_ji_10
+  rotate: false
+  xy: 137, 367
+  size: 134, 115
+  orig: 179, 133
+  offset: 20, 13
+  index: -1
+jidan_ji_09
+  rotate: false
+  xy: 1, 375
+  size: 94, 91
+  orig: 179, 133
+  offset: 39, 33
+  index: -1
+jidan_ji_07
+  rotate: false
+  xy: 273, 477
+  size: 60, 73
+  orig: 179, 133
+  offset: 53, 53
+  index: -1
+jidan_ji_01
+  rotate: false
+  xy: 97, 375
+  size: 26, 29
+  orig: 179, 133
+  offset: 67, 85
+  index: -1
+jidan_ji_20
+  rotate: false
+  xy: 1, 1
+  size: 179, 133
+  orig: 179, 133
+  offset: 0, 0
+  index: -1
+jidan_ji_13
+  rotate: false
+  xy: 321, 245
+  size: 159, 114
+  orig: 179, 133
+  offset: 5, 7
+  index: -1
+jidan_ji_18
+  rotate: false
+  xy: 182, 1
+  size: 158, 120
+  orig: 179, 133
+  offset: 6, 0
+  index: -1
+jidan_ji_06
+  rotate: false
+  xy: 97, 484
+  size: 60, 73
+  orig: 179, 133
+  offset: 53, 53
+  index: -1
+jidan_ji_00
+  rotate: false
+  xy: 97, 406
+  size: 26, 29
+  orig: 179, 133
+  offset: 67, 85
+  index: -1
+jidan_ji_05
+  rotate: false
+  xy: 159, 484
+  size: 47, 53
+  orig: 179, 133
+  offset: 56, 73
+  index: -1
+jidan_ji_19
+  rotate: false
+  xy: 1, 136
+  size: 158, 120
+  orig: 179, 133
+  offset: 6, 0
+  index: -1
+jidan_ji_08
+  rotate: false
+  xy: 1, 468
+  size: 94, 91
+  orig: 179, 133
+  offset: 39, 33
+  index: -1
+jidan_ji_17
+  rotate: false
+  xy: 342, 1
+  size: 158, 120
+  orig: 179, 133
+  offset: 6, 0
+  index: -1
+jidan_ji_16
+  rotate: false
+  xy: 182, 123
+  size: 158, 120
+  orig: 179, 133
+  offset: 6, 0
+  index: -1
+jidan_ji_12
+  rotate: false
+  xy: 321, 361
+  size: 159, 114
+  orig: 179, 133
+  offset: 5, 7
+  index: -1
+jidan_ji_03
+  rotate: false
+  xy: 273, 418
+  size: 44, 49
+  orig: 179, 133
+  offset: 57, 75
+  index: -1
+jidan_ji_02
+  rotate: false
+  xy: 273, 367
+  size: 44, 49
+  orig: 179, 133
+  offset: 57, 75
+  index: -1
+jidan_ji_15
+  rotate: false
+  xy: 342, 123
+  size: 158, 120
+  orig: 179, 133
+  offset: 6, 0
+  index: -1
+jidan_ji_11
+  rotate: false
+  xy: 1, 258
+  size: 134, 115
+  orig: 179, 133
+  offset: 20, 13
+  index: -1
+jidan_ji_04
+  rotate: false
+  xy: 208, 484
+  size: 47, 53
+  orig: 179, 133
+  offset: 56, 73
+  index: -1
+jidan_ji_14
+  rotate: false
+  xy: 161, 245
+  size: 158, 120
+  orig: 179, 133
+  offset: 6, 0
+  index: -1

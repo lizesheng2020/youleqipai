@@ -1,0 +1,104 @@
+
+ji.png
+size: 506,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongji14
+  rotate: false
+  xy: 134, 392
+  size: 135, 115
+  orig: 226, 144
+  offset: 21, 11
+  index: -1
+gongji13
+  rotate: false
+  xy: 271, 392
+  size: 129, 119
+  orig: 226, 144
+  offset: 26, 7
+  index: -1
+gongji08
+  rotate: false
+  xy: 1, 1
+  size: 179, 123
+  orig: 226, 144
+  offset: 45, 7
+  index: -1
+gongji09
+  rotate: false
+  xy: 1, 259
+  size: 143, 131
+  orig: 226, 144
+  offset: 18, 11
+  index: -1
+gongji04
+  rotate: false
+  xy: 342, 233
+  size: 96, 105
+  orig: 226, 144
+  offset: 45, 4
+  index: -1
+gongji05
+  rotate: false
+  xy: 244, 253
+  size: 96, 105
+  orig: 226, 144
+  offset: 45, 4
+  index: -1
+gongji07
+  rotate: false
+  xy: 182, 1
+  size: 160, 123
+  orig: 226, 144
+  offset: 45, 7
+  index: -1
+gongji12
+  rotate: false
+  xy: 1, 392
+  size: 131, 119
+  orig: 226, 144
+  offset: 21, 6
+  index: -1
+gongji11
+  rotate: false
+  xy: 146, 126
+  size: 147, 125
+  orig: 226, 144
+  offset: 5, 7
+  index: -1
+gongji02
+  rotate: false
+  xy: 295, 126
+  size: 96, 105
+  orig: 226, 144
+  offset: 45, 4
+  index: -1
+gongji10
+  rotate: false
+  xy: 1, 126
+  size: 143, 131
+  orig: 226, 144
+  offset: 18, 7
+  index: -1
+gongji06
+  rotate: false
+  xy: 344, 1
+  size: 160, 123
+  orig: 226, 144
+  offset: 45, 7
+  index: -1
+gongji03
+  rotate: false
+  xy: 146, 253
+  size: 96, 105
+  orig: 226, 144
+  offset: 45, 4
+  index: -1
+gongji01
+  rotate: false
+  xy: 402, 392
+  size: 100, 109
+  orig: 226, 144
+  offset: 43, 2
+  index: -1

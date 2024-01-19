@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "6d/GLo4mlDuYA3ZS1+MPU6"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "shurukuang_2",
+      "rect": [
+        0,
+        0,
+        380,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        380,
+        60
+      ],
+      "capInsets": [
+        20,
+        6,
+        16,
+        8
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

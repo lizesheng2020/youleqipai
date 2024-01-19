@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "36NjYj7s5AVI2uGnQAwZpr"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "applyrecord_itembg",
+      "rect": [
+        0,
+        0,
+        1433,
+        161
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1433,
+        161
+      ],
+      "capInsets": [
+        47,
+        30,
+        57,
+        37
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

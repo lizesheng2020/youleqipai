@@ -1,0 +1,411 @@
+[
+  1,
+  [
+    "4atu4nWiZDV5/Pqpw93gS4"
+  ],
+  0,
+  [
+    [
+      "sp.SkeletonData",
+      [
+        "_name",
+        "_atlasText",
+        "textureNames",
+        "_skeletonJson",
+        "textures"
+      ],
+      -1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  ],
+  [
+    [
+      0,
+      "erbagang",
+      "\nerbagang.png\nsize: 1846,186\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n1dian\n  rotate: false\n  xy: 392, 98\n  size: 118, 86\n  orig: 220, 90\n  offset: 51, 2\n  index: -1\n1dianban\n  rotate: false\n  xy: 2, 12\n  size: 196, 90\n  orig: 220, 90\n  offset: 12, 0\n  index: -1\n2dian\n  rotate: false\n  xy: 512, 98\n  size: 126, 86\n  orig: 220, 90\n  offset: 47, 2\n  index: -1\n2dianban\n  rotate: false\n  xy: 200, 6\n  size: 204, 90\n  orig: 220, 90\n  offset: 8, 0\n  index: -1\n3dian\n  rotate: false\n  xy: 640, 98\n  size: 122, 86\n  orig: 220, 90\n  offset: 49, 2\n  index: -1\n3dianban\n  rotate: false\n  xy: 406, 6\n  size: 200, 90\n  orig: 220, 90\n  offset: 10, 0\n  index: -1\n4dian\n  rotate: false\n  xy: 764, 98\n  size: 128, 86\n  orig: 220, 90\n  offset: 46, 2\n  index: -1\n4dianban\n  rotate: false\n  xy: 608, 6\n  size: 206, 90\n  orig: 220, 90\n  offset: 7, 0\n  index: -1\n5dian\n  rotate: false\n  xy: 894, 98\n  size: 127, 86\n  orig: 220, 90\n  offset: 46, 2\n  index: -1\n5dianban\n  rotate: false\n  xy: 816, 6\n  size: 205, 90\n  orig: 220, 90\n  offset: 7, 0\n  index: -1\n6dian\n  rotate: false\n  xy: 1023, 98\n  size: 126, 86\n  orig: 220, 90\n  offset: 47, 2\n  index: -1\n6dianban\n  rotate: false\n  xy: 1023, 6\n  size: 204, 90\n  orig: 220, 90\n  offset: 8, 0\n  index: -1\n7dian\n  rotate: false\n  xy: 1151, 98\n  size: 125, 86\n  orig: 220, 90\n  offset: 47, 2\n  index: -1\n7dianban\n  rotate: false\n  xy: 1229, 6\n  size: 203, 90\n  orig: 220, 90\n  offset: 8, 0\n  index: -1\n8dian\n  rotate: false\n  xy: 1278, 98\n  size: 126, 86\n  orig: 220, 90\n  offset: 47, 2\n  index: -1\n8dianban\n  rotate: false\n  xy: 1434, 6\n  size: 204, 90\n  orig: 220, 90\n  offset: 8, 0\n  index: -1\n9dian\n  rotate: false\n  xy: 1406, 98\n  size: 126, 86\n  orig: 220, 90\n  offset: 47, 2\n  index: -1\n9dianban\n  rotate: false\n  xy: 1640, 2\n  size: 204, 90\n  orig: 220, 90\n  offset: 8, 0\n  index: -1\nbishi\n  rotate: false\n  xy: 242, 103\n  size: 148, 81\n  orig: 220, 90\n  offset: 36, 5\n  index: -1\nduizi\n  rotate: false\n  xy: 1534, 98\n  size: 155, 86\n  orig: 220, 90\n  offset: 32, 3\n  index: -1\nerbagang\n  rotate: false\n  xy: 2, 104\n  size: 238, 80\n  orig: 246, 90\n  offset: 4, 6\n  index: -1\nzhizun\n  rotate: false\n  xy: 1691, 94\n  size: 153, 90\n  orig: 220, 90\n  offset: 33, 0\n  index: -1\n",
+      [
+        "erbagang.png"
+      ],
+      {
+        "skeleton": {
+          "hash": "/J/nwwxdhuZUECU0DBWsqKZvm40",
+          "spine": "3.8.75",
+          "x": -110,
+          "y": -45,
+          "width": 220,
+          "height": 90,
+          "images": "../图/牌型/",
+          "audio": ""
+        },
+        "bones": [
+          {
+            "name": "root"
+          }
+        ],
+        "slots": [
+          {
+            "name": "paixing",
+            "bone": "root",
+            "attachment": "zhizun"
+          }
+        ],
+        "skins": [
+          {
+            "name": "default",
+            "attachments": {
+              "paixing": {
+                "1dian": {
+                  "width": 220,
+                  "height": 90
+                },
+                "1dianban": {
+                  "width": 220,
+                  "height": 90
+                },
+                "2dian": {
+                  "width": 220,
+                  "height": 90
+                },
+                "2dianban": {
+                  "width": 220,
+                  "height": 90
+                },
+                "3dian": {
+                  "width": 220,
+                  "height": 90
+                },
+                "3dianban": {
+                  "width": 220,
+                  "height": 90
+                },
+                "4dian": {
+                  "width": 220,
+                  "height": 90
+                },
+                "4dianban": {
+                  "width": 220,
+                  "height": 90
+                },
+                "5dian": {
+                  "width": 220,
+                  "height": 90
+                },
+                "5dianban": {
+                  "width": 220,
+                  "height": 90
+                },
+                "6dian": {
+                  "width": 220,
+                  "height": 90
+                },
+                "6dianban": {
+                  "width": 220,
+                  "height": 90
+                },
+                "7dian": {
+                  "width": 220,
+                  "height": 90
+                },
+                "7dianban": {
+                  "width": 220,
+                  "height": 90
+                },
+                "8dian": {
+                  "width": 220,
+                  "height": 90
+                },
+                "8dianban": {
+                  "width": 220,
+                  "height": 90
+                },
+                "9dian": {
+                  "width": 220,
+                  "height": 90
+                },
+                "9dianban": {
+                  "width": 220,
+                  "height": 90
+                },
+                "bishi": {
+                  "width": 220,
+                  "height": 90
+                },
+                "duizi": {
+                  "width": 220,
+                  "height": 90
+                },
+                "erbagang": {
+                  "width": 246,
+                  "height": 90
+                },
+                "zhizun": {
+                  "width": 220,
+                  "height": 90
+                }
+              }
+            }
+          }
+        ],
+        "animations": {
+          "ebg_1dian": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "1dian"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_1dianban": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "1dianban"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_2dian": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "2dian"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_2dianban": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "2dianban"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_3dian": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "3dian"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_3dianban": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "3dianban"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_4dian": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "4dian"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_4dianban": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "4dianban"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_5dian": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "5dian"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_5dianban": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "5dianban"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_6dian": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "6dian"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_6dianban": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "6dianban"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_7dian": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "7dian"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_7dianban": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "7dianban"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_8dian": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "8dian"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_8dianban": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "8dianban"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_9dian": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "9dian"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_9dianban": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "9dianban"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_bishi": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "bishi"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_duizi": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "duizi"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_erbagang": {
+            "slots": {
+              "paixing": {
+                "attachment": [
+                  {
+                    "name": "erbagang"
+                  }
+                ]
+              }
+            }
+          },
+          "ebg_zhizun": {}
+        }
+      },
+      [
+        0
+      ]
+    ]
+  ],
+  0,
+  0,
+  [
+    0
+  ],
+  [
+    -1
+  ],
+  [
+    0
+  ]
+]

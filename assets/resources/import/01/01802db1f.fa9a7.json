@@ -1,0 +1,301 @@
+[
+  1,
+  [
+    "73Dk5C1CBNQYEdoXaEWYvb",
+    "53Xvtn3LpO3rRS2DhZvHET",
+    "01tp5EOmJBHLg2DyxF73Aj",
+    "04I0rmQJhKv4RGHHpntwtB",
+    "38TzLo4PROVZ0AWK/YOaM6",
+    "5bXS2Yf09HC4awVB7WBES+",
+    "20r8CJVhZCBLk2/216dDpW"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "toggle_off1",
+          "rect": [
+            0,
+            0,
+            56,
+            56
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            56,
+            56
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "icon_xiugaifangjian",
+          "rect": [
+            0,
+            0,
+            273,
+            94
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            273,
+            94
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "toggle_on",
+          "rect": [
+            0,
+            0,
+            40,
+            40
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            40,
+            40
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    [
+      [
+        {
+          "name": "icon_chuangjianfangjian",
+          "rect": [
+            0,
+            0,
+            354,
+            131
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            354,
+            131
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        3
+      ]
+    ],
+    [
+      [
+        {
+          "name": "toggle_off",
+          "rect": [
+            0,
+            0,
+            52,
+            51
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            52,
+            51
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        4
+      ]
+    ],
+    [
+      [
+        {
+          "name": "icon_gaojishezhi",
+          "rect": [
+            0,
+            0,
+            327,
+            120
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            327,
+            120
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        5
+      ]
+    ],
+    [
+      [
+        {
+          "name": "toggle_on1",
+          "rect": [
+            0,
+            0,
+            46,
+            44
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            46,
+            44
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        6
+      ]
+    ]
+  ]
+]
